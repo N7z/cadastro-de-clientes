@@ -2,6 +2,8 @@
 
 Projeto simples em Laravel 12 com PHP 8 para gerenciar clientes. Permite criar, editar, listar e excluir clientes.
 
+<img width="1593" height="790" alt="image" src="https://github.com/user-attachments/assets/ca9b7f0f-5fc7-49f3-8684-72d0c354cdb0" />
+
 ## Funcionalidades
 
 - Cadastro de clientes
